@@ -1,0 +1,21 @@
+{
+  "dashboard": {
+    "title": "لوحة إدارة الطلاب",
+    "subtitle": "راقب قوة الصفوف، قم بتحميل الصور، وأدر سجلات الطلاب",
+    "totalClasses": "إجمالي الصفوف",
+    "totalStudents": "إجمالي الطلاب",
+    "uploadedPhotos": "الصور المرفوعة",
+    "pendingUploads": "الصور غير المرفوعة",
+    "table": {
+      "class": "الصف",
+      "strength": "عدد الطلاب",
+      "photo": "الصورة",
+      "action": "الإجراء"
+    },
+    "uploaded": "تم الرفع",
+    "notUploaded": "لم يتم الرفع",
+    "uploadBtn": "رفع",
+    "viewBtn": "عرض",
+    "downloadBtn": "تحميل"
+  }
+}

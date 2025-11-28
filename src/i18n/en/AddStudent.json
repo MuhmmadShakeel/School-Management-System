@@ -1,0 +1,21 @@
+{
+  "dashboard": {
+    "title": "Student Management Dashboard",
+    "subtitle": "Monitor class strength, upload photos, and manage student records",
+    "totalClasses": "Total Classes",
+    "totalStudents": "Total Students",
+    "uploadedPhotos": "Uploaded Photos",
+    "pendingUploads": "Pending Uploads",
+    "table": {
+      "class": "Class",
+      "strength": "Strength",
+      "photo": "Photo",
+      "action": "Action"
+    },
+    "uploaded": "Uploaded",
+    "notUploaded": "Not Uploaded",
+    "uploadBtn": "Upload",
+    "viewBtn": "View",
+    "downloadBtn": "Download"
+  }
+}

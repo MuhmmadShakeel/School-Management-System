@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-// ✅ Reusable NavItem
+
 const NavItem = ({ to, text, onClick }) => (
   <Link
     to={to}

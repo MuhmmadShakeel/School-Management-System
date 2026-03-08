@@ -33,9 +33,6 @@ import AdminDash from './Components/AdminDashboard/AdminDash';
 
 
 
-// -------------------- Layouts --------------------
-
-// Main Layout (with Navbar + Footer)
 const Layout = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col">
